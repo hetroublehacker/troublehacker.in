@@ -167,8 +167,8 @@ body {
 
 @media (max-width: 768px) {
    .title {
-     font-size: 7vw; /* Larger font size on smaller screens */
-     width: 60%; /* Adjust width */
+     font-size: 9vw; /* Larger font size on smaller screens */
+     width: 50%; /* Adjust width */
    }
    .wrapper .icon {
      width: 40px;
