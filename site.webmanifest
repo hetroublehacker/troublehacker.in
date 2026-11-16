@@ -1,0 +1,10 @@
+{
+  "name": "Aditya Soni — HeTroubleHacker",
+  "short_name": "HeTroubleHacker",
+  "description": "Product security and vulnerability research portfolio of Aditya Soni.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "minimal-ui",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a"
+}

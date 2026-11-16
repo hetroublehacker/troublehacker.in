@@ -1,0 +1,4 @@
+Contact: mailto:adity4soni@gmail.com
+Expires: 2027-11-16T00:00:00.000Z
+Canonical: https://troublehacker.in/.well-known/security.txt
+Preferred-Languages: en
