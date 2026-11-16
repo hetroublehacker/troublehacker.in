@@ -8,7 +8,8 @@ Source for [troublehacker.in](https://troublehacker.in/), the personal portfolio
 - Search and social metadata plus Schema.org `Person` and `WebSite` data
 - Keyboard, reduced-motion, mobile, and no-JavaScript fallbacks
 - `robots.txt`, `sitemap.xml`, a web app manifest, and a custom 404 page
-- A standard `/.well-known/security.txt` contact
+- A standard `/.well-known/security.txt` contact, published through the root
+  `.nojekyll` marker
 - A dependency-free validation script and GitHub Actions check
 
 ## Run locally

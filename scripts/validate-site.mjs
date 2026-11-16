@@ -9,6 +9,7 @@ const requiredFiles = [
   'index.html',
   '404.html',
   'CNAME',
+  '.nojekyll',
   'favicon.ico',
   'robots.txt',
   'sitemap.xml',
